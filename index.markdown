@@ -22,7 +22,7 @@ permalink: /
   <img style="width: 60%;" src="https://github.com/Open-Finance-Lab/ACM_ICAIF_2023/blob/main/web/app/assets/logos/NYUCenter.png?raw=true" alt="NYUCenter logo">
 </div>
 
-#### GitHub 
+#### **GitHub** 
 The starter kit and related resources are available at [Github](https://github.com/Open-Finance-Lab/FinRL_Contest_2023).
 
 #### **Annoucements**
